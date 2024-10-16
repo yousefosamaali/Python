@@ -1,5 +1,5 @@
 # Stock Data Analysis and Visualization
-Table of Contents
+# Table of Contents
 Introduction
 Define a Function that Makes a Graph
 Question 1: Use yfinance to Extract Stock Data
