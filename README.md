@@ -14,7 +14,7 @@ Installation
 Usage
 License
 
-#Introduction
+# Introduction
 This project aims to analyze and visualize stock data for Tesla (TSLA) and GameStop (GME) using Python. It leverages the yfinance library to extract stock data and web scraping techniques to gather revenue data from relevant sources.
 
 # Define a Function that Makes a Graph
