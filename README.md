@@ -1,18 +1,18 @@
 # Stock Data Analysis and Visualization
 # Table of Contents
 Introduction
-Define a Function that Makes a Graph
-Question 1: Use yfinance to Extract Stock Data
-Question 2: Use Webscraping to Extract Tesla Revenue Data
-Question 3: Use yfinance to Extract Stock Data
-Question 4: Use Webscraping to Extract GME Revenue Data
-Question 5: Plot Tesla Stock Graph
-Question 6: Plot GameStop Stock Graph
-Estimated Time Needed
-Requirements
-Installation
-Usage
-License
+Define a Function that Makes a Graph 
+Question 1: Use yfinance to Extract Stock Data  
+Question 2: Use Webscraping to Extract Tesla Revenue Data  
+Question 3: Use yfinance to Extract Stock Data 
+Question 4: Use Webscraping to Extract GME Revenue Data  
+Question 5: Plot Tesla Stock Graph  
+Question 6: Plot GameStop Stock Graph  
+Estimated Time Needed  
+Requirements  
+Installation  
+Usage  
+License  
 
 # Introduction
 This project aims to analyze and visualize stock data for Tesla (TSLA) and GameStop (GME) using Python. It leverages the yfinance library to extract stock data and web scraping techniques to gather revenue data from relevant sources.
